@@ -17,9 +17,11 @@
 
 ## Файлы
 
+- `sales_analysis.ipynb` — Jupyter Notebook с кодом
 - `analysis.py` — Python-скрипт с анализом
 - `analysis.md` — полный анализ с таблицами и выводами
 - `queries.sql` — SQL-запросы к датасету
+- `images/` — графики визуализации
 
 ## Источник данных
 
